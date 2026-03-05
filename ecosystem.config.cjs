@@ -8,7 +8,8 @@ module.exports = {
       env: {
         NODE_ENV: "production",
         PORT: 3010,
-        SESSION_SECRET: "fish_tokri_prod_secret"
+        SESSION_SECRET: "fish_tokri_prod_secret",
+        VITE_HMR_DISABLED: "true"
       }
     }
   ]

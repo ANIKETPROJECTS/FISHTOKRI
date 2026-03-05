@@ -1,0 +1,140 @@
+/root/.pm2/logs/fishtokri-error.log last 15 lines:
+24|fishtok | ReferenceError: __dirname is not defined
+24|fishtok |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtok |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtok | ReferenceError: __dirname is not defined
+24|fishtok |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtok |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtok | ReferenceError: __dirname is not defined
+24|fishtok |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtok |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtok | ReferenceError: __dirname is not defined
+24|fishtok |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtok |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtok | ReferenceError: __dirname is not defined
+24|fishtok |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtok |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+
+/root/.pm2/logs/fishtokri-out.log last 15 lines:
+24|fishtok | Created default admin user: admin / admin
+24|fishtok | Seeded database with all FishTokri products.
+24|fishtok | Created default admin user: admin / admin
+24|fishtok | Seeded database with all FishTokri products.
+24|fishtok | Created default admin user: admin / admin
+24|fishtok | Seeded database with all FishTokri products.
+24|fishtok | Created default admin user: admin / admin
+24|fishtok | Seeded database with all FishTokri products.
+24|fishtok | Created default admin user: admin / admin
+24|fishtok | Seeded database with all FishTokri products.
+24|fishtok | Created default admin user: admin / admin
+24|fishtok | Seeded database with all FishTokri products.
+24|fishtok | Created default admin user: admin / admin
+24|fishtok | Seeded database with all FishTokri products.
+24|fishtok | Created default admin user: admin / admin
+
+PM2      | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2      | App [fishtokri:24] starting in -fork mode-
+PM2      | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+16|barrelborn | [API] Fetching menu items for category: wok
+16|barrelborn | [Storage] Fetching items for category: wok
+16|barrelborn | [Storage] Found 17 items in barrelborn.wok
+16|barrelborn | 4:48:10 PM [express] GET /api/menu-items 304 in 7ms :: [{"_id":"6959fd844ad9b118b9ec35ff","name":"Cr…
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+16|barrelborn | [API] Fetching menu items for category: titbits
+16|barrelborn | [Storage] Fetching items for category: titbits
+16|barrelborn | [Storage] Found 11 items in barrelborn.titbits
+16|barrelborn | 4:48:20 PM [express] GET /api/menu-items 200 in 8ms :: [{"_id":"6959fd834ad9b118b9ec35eb","name":"Ch…
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+PM2           | App [fishtokri:24] exited with code [0] via signal [SIGINT]
+PM2           | App [fishtokri:24] starting in -fork mode-
+PM2           | App [fishtokri:24] online
+24|fishtokri  | Seeded database with all FishTokri products.
+24|fishtokri  | ReferenceError: __dirname is not defined
+24|fishtokri  |     at serveStatic (/var/www/FISHTOKRI/server/static.ts:6:33)
+24|fishtokri  |     at <anonymous> (/var/www/FISHTOKRI/server/index.ts:82:5)
+24|fishtokri  | Created default admin user: admin / admin
+^C
+root@srv1232657:/#
